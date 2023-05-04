@@ -1,0 +1,17 @@
+@import '../fonts/manrope/manrope.css';
+@import '../libs/bootstrap/bootstrap-grid.min.css';
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Manrope";
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+}/*# sourceMappingURL=style.css.map */
